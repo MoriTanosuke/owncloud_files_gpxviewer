@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>files_gpxviewer</id>
+	<name>GPX Viewer</name>
+	<description>Simple GPX viewer for ownCloud. Based on LeafletJS (http://leafletjs.com/)</description>
+	<version>0.1</version>
+	<licence>AGPL</licence>
+	<author>Carsten Ringe</author>
+	<require>5</require>
+</info>
